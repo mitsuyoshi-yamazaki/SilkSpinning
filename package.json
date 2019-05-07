@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "article-parser": "^2.4.0",
     "repeat-string": "^1.6.1"
   }
 }
