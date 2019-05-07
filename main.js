@@ -4,6 +4,10 @@ console.log(repeat('hey', 100));
 document.write(repeat('hey', 10));
 console.log('hoge');
 
+console.log(require('article-parser'))
+
+console.log('hoge2');
+
 
 const {
     extract 
